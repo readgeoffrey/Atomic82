@@ -550,14 +550,14 @@ section{
 
 .footer{
 	background-color: #202020;
-	text-align: center;
+	text-align: left;
 	padding: 60px 0;
 }
 .footer span{
 	color: #51c2b9;
 }
 .footer p{
-	font-size: 21px;
+	font-size: 14px;
 	color: #fff;
 	margin-bottom: 0;
 }
