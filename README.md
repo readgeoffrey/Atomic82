@@ -1,1 +1,1 @@
-Here's the first landing page for Project Codename: Atomic82
+A proposed landing page for the project code-named: Atomic82
