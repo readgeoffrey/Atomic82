@@ -557,9 +557,10 @@ section{
 	color: #51c2b9;
 }
 .footer p{
-	font-size: 14px;
+	font-size: 16px;
+	font-style: normal;
 	color: #fff;
-	margin-bottom: 0;
+	margin-bottom: 10px;
 }
 .footer a{
 	color: #fff;
