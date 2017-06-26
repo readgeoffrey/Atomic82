@@ -26,6 +26,7 @@ p{
 	font-size: 21px;
 	font-style: italic;
 	color: #818181;
+	font-family: Verdana, Geneva, sans-serif
 }
 a{
 	transition: all 0.3s ease-in-out;
